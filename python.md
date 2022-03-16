@@ -43,3 +43,4 @@ python test.py
 sbatch task.sh
 ```
 And then monitor it on dashboard which mentioned above. DashBoard -> Jobs -> Active Jobs
+If there is any error, you can check your work directory to find files like slurm-32683857.out.

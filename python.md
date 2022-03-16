@@ -6,7 +6,7 @@
 ssh username@greatlakes.arc-ts.umich.edu
 ```
 
-## Load A Pyhton Environment
+## Load A Python Environment
 ```
 module available python
 module load python3.8-anaconda/2021.05
